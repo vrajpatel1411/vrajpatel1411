@@ -6,9 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vrajpatel1411.vrajpatel1411&"  />
+</div>
+
+
 
 <p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Reactjs and Spring Boot<br>🎯 Goals: Code mastery goals<br>🎲 Fun fact: The code was handwritten</p>
 
