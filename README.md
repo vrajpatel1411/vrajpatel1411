@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Reactjs and Spring Boot<br>🎯 Goals: Code mastery goals<br>🎲 Fun fact: The code was handwritten</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently working on project on REact.js and Spring Boot<br>🎯 Goals: Improve problem solving  skills<br>🎲 Fun fact: The code was handwritten</p>
 
 ###
 
